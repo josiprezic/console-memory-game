@@ -1,3 +1,3 @@
 Console memory game
 
-![alt screen1](https://ibb.co/cLZejH)
+![screen1](https://image.ibb.co/bwg3Bx/Screenshot_1.png)
