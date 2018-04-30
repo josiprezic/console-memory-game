@@ -1,4 +1,5 @@
-#Console memory game
+Console Memory Game
+=================
 
 ![screen1](https://image.ibb.co/bwg3Bx/Screenshot_1.png)
 
