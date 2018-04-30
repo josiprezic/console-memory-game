@@ -1,6 +1,6 @@
 Console Memory Game
 =================
-Mini console memory game created in 1st year of studies as part of "Programming2" course. This game demostrates some fundamental operations related to memory allocation/deallocation, string manipulation, usage of "ctime" and "random" library in C++ programming language. Tools used: Visual Studio IDE
+Mini console memory game created in 1st year of studies as part of "Programming2" course. This game demostrates some fundamental operations related to memory allocation/deallocation, string manipulation, usage of "ctime" and "random" libraries in C++ programming language. Tools used: Visual Studio IDE
 
 Screenshots provided below.
 
